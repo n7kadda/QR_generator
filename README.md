@@ -11,7 +11,7 @@ A simple web application to generate and download QR codes in PNG format using F
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone https://github.com/n7kadda/QR_generator.git
    cd qr-code-generator
 
 2. Install the required packages:
